@@ -1,0 +1,1001 @@
+Data;Produto;Canal_Venda;Quantidade;Valor_Unitário
+2024-04-18 10:59:22.248179;Produto B;Televendas;2;25.5
+2024-04-25 10:59:22.248207;Produto B;Loja Física;10;67.98
+2023-11-04 10:59:22.248211;Produto D;Loja Física;7;86.62
+2024-02-08 10:59:22.248215;Produto C;Televendas;9;73.01
+2023-08-25 10:59:22.248218;Produto B;Loja Física;10;78.79
+2023-08-09 10:59:22.248221;Produto C;Loja Física;8;37.93
+2023-08-27 10:59:22.248224;Produto C;Loja Física;1;23.97
+2024-04-18 10:59:22.248227;Produto D;Televendas;9;24.3
+2023-08-18 10:59:22.248229;Produto B;Loja Física;1;39.16
+2023-10-12 10:59:22.248232;Produto A;Loja Física;3;58.59
+2023-09-07 10:59:22.248235;Produto D;Loja Física;5;49.43
+2024-04-06 10:59:22.248237;Produto B;Pessoa Juridica;6;66.25
+2024-01-08 10:59:22.248239;Produto B;Pessoa Juridica;6;64.42
+2023-08-04 10:59:22.248242;Produto B;Pessoa Juridica;8;15.12
+2024-04-06 10:59:22.248245;Produto A;Pessoa Juridica;1;55.92
+2023-08-15 10:59:22.248247;Produto C;Televendas;8;25.91
+2023-10-15 10:59:22.248250;Produto A;Pessoa Juridica;1;38.42
+2023-06-13 10:59:22.248253;Produto A;Pessoa Juridica;3;11.87
+2023-07-11 10:59:22.248255;Produto C;Pessoa Juridica;10;17.33
+2024-01-31 10:59:22.248258;Produto D;Pessoa Juridica;6;28.06
+2024-04-16 10:59:22.248260;Produto D;Loja Física;4;88.2
+2024-01-21 10:59:22.248263;Produto B;Loja Física;8;15.02
+2024-01-01 10:59:22.248266;Produto D;Pessoa Juridica;3;96.49
+2024-05-13 10:59:22.248268;Produto B;Loja Física;2;99.91
+2024-03-26 10:59:22.248271;Produto D;Pessoa Juridica;5;14.34
+2024-03-06 10:59:22.248273;Produto A;Loja Física;8;46.72
+2023-11-14 10:59:22.248276;Produto A;Televendas;7;33.58
+2023-12-13 10:59:22.248279;Produto D;Loja Física;9;12.83
+2024-03-13 10:59:22.248281;Produto D;Loja Física;2;52.91
+2023-06-16 10:59:22.248284;Produto A;Loja Física;8;47.68
+2023-08-14 10:59:22.248287;Produto B;Loja Física;8;18.26
+2023-12-15 10:59:22.248289;Produto A;Loja Física;10;11.94
+2023-10-09 10:59:22.248292;Produto A;Televendas;4;15.68
+2024-02-13 10:59:22.248294;Produto B;Loja Física;8;73.89
+2024-01-15 10:59:22.248297;Produto C;Pessoa Juridica;9;74.31
+2024-03-17 10:59:22.248299;Produto A;Loja Física;6;42.19
+2023-10-21 10:59:22.248302;Produto B;Loja Física;7;48.02
+2023-09-03 10:59:22.248304;Produto A;Pessoa Juridica;10;11.89
+2023-09-06 10:59:22.248307;Produto C;Televendas;10;52.83
+2023-09-23 10:59:22.248309;Produto C;Loja Física;7;98.04
+2023-08-04 10:59:22.248312;Produto B;Televendas;5;96.03
+2023-09-24 10:59:22.248314;Produto D;Pessoa Juridica;4;16.64
+2024-04-13 10:59:22.248316;Produto A;Pessoa Juridica;3;81.18
+2024-03-25 10:59:22.248319;Produto B;Loja Física;1;53.91
+2023-09-19 10:59:22.248322;Produto C;Pessoa Juridica;6;32.18
+2023-05-27 10:59:22.248324;Produto D;Loja Física;4;17.3
+2024-01-22 10:59:22.248327;Produto D;Loja Física;6;85.43
+2023-07-25 10:59:22.248330;Produto C;Televendas;10;50.5
+2023-05-30 10:59:22.248332;Produto B;Loja Física;9;58.24
+2023-06-10 10:59:22.248335;Produto A;Televendas;7;32.52
+2023-11-22 10:59:22.248337;Produto A;Loja Física;1;89.1
+2024-04-10 10:59:22.248340;Produto A;Loja Física;3;42.58
+2023-12-27 10:59:22.248342;Produto D;Loja Física;2;70.32
+2023-08-23 10:59:22.248345;Produto D;Loja Física;8;34.34
+2024-03-05 10:59:22.248347;Produto C;Televendas;2;99.72
+2023-08-01 10:59:22.248350;Produto C;Televendas;9;91.99
+2023-11-15 10:59:22.248353;Produto B;Pessoa Juridica;4;22.79
+2024-03-12 10:59:22.248355;Produto C;Pessoa Juridica;2;95.68
+2023-05-21 10:59:22.248358;Produto B;Loja Física;3;98.69
+2024-01-16 10:59:22.248360;Produto A;Pessoa Juridica;8;19.91
+2023-07-11 10:59:22.248363;Produto A;Pessoa Juridica;7;48.24
+2023-08-23 10:59:22.248365;Produto C;Pessoa Juridica;6;88.02
+2024-04-23 10:59:22.248368;Produto D;Loja Física;6;86.94
+2023-09-13 10:59:22.248370;Produto B;Televendas;7;96.02
+2023-07-29 10:59:22.248373;Produto C;Televendas;3;21.79
+2023-09-22 10:59:22.248375;Produto C;Loja Física;4;52.35
+2023-10-15 10:59:22.248378;Produto A;Televendas;2;95.2
+2023-10-07 10:59:22.248381;Produto C;Televendas;5;23.94
+2023-07-03 10:59:22.248383;Produto B;Televendas;4;54.13
+2023-12-27 10:59:22.248386;Produto A;Pessoa Juridica;5;21.4
+2023-12-14 10:59:22.248388;Produto D;Televendas;6;86.86
+2023-07-15 10:59:22.248391;Produto D;Pessoa Juridica;4;28.65
+2023-05-20 10:59:22.248393;Produto A;Loja Física;7;19.61
+2023-08-18 10:59:22.248396;Produto D;Televendas;3;26.8
+2023-10-18 10:59:22.248399;Produto C;Pessoa Juridica;4;73.95
+2023-08-19 10:59:22.248402;Produto D;Loja Física;9;24.41
+2024-01-18 10:59:22.248404;Produto B;Pessoa Juridica;2;63.65
+2023-06-27 10:59:22.248407;Produto C;Televendas;3;27.42
+2024-02-27 10:59:22.248409;Produto D;Televendas;5;41.35
+2023-08-29 10:59:22.248412;Produto A;Loja Física;10;96.72
+2023-07-14 10:59:22.248414;Produto D;Loja Física;10;95.01
+2023-10-23 10:59:22.248417;Produto D;Loja Física;6;31.18
+2024-03-01 10:59:22.248419;Produto A;Televendas;2;55.06
+2023-11-04 10:59:22.248422;Produto A;Televendas;10;31.97
+2024-03-23 10:59:22.248424;Produto A;Loja Física;9;33.15
+2023-09-18 10:59:22.248427;Produto D;Loja Física;1;19.85
+2023-06-22 10:59:22.248429;Produto C;Televendas;8;13.32
+2023-06-15 10:59:22.248432;Produto A;Televendas;4;24.35
+2023-05-25 10:59:22.248435;Produto B;Loja Física;1;48.06
+2024-01-16 10:59:22.248437;Produto D;Pessoa Juridica;2;30.51
+2023-06-13 10:59:22.248440;Produto C;Pessoa Juridica;2;11.34
+2024-05-09 10:59:22.248442;Produto A;Televendas;6;42.7
+2023-11-22 10:59:22.248445;Produto A;Loja Física;3;11.72
+2023-06-19 10:59:22.248447;Produto B;Loja Física;4;75.4
+2023-08-12 10:59:22.248450;Produto A;Televendas;7;33.08
+2023-06-09 10:59:22.248452;Produto A;Pessoa Juridica;3;51.3
+2023-06-17 10:59:22.248455;Produto D;Loja Física;7;15.28
+2023-12-03 10:59:22.248457;Produto A;Televendas;1;35.28
+2023-07-29 10:59:22.248460;Produto C;Televendas;7;69.92
+2023-09-22 10:59:22.248462;Produto B;Televendas;5;53.94
+2024-05-12 10:59:22.248465;Produto C;Televendas;4;24.16
+2023-10-10 10:59:22.248467;Produto A;Televendas;2;97.69
+2024-02-05 10:59:22.248470;Produto B;Loja Física;9;83.17
+2024-05-08 10:59:22.248472;Produto D;Televendas;4;76.87
+2024-04-24 10:59:22.248475;Produto B;Pessoa Juridica;7;52.92
+2024-04-15 10:59:22.248477;Produto B;Loja Física;9;20.73
+2023-07-14 10:59:22.248480;Produto B;Loja Física;6;43.81
+2024-01-26 10:59:22.248483;Produto C;Loja Física;5;20.84
+2023-06-06 10:59:22.248485;Produto A;Televendas;7;90.13
+2023-11-02 10:59:22.248488;Produto C;Loja Física;7;26.21
+2023-09-07 10:59:22.248491;Produto B;Loja Física;1;40.98
+2023-09-24 10:59:22.248493;Produto C;Pessoa Juridica;7;99.83
+2024-01-05 10:59:22.248495;Produto D;Loja Física;8;47.4
+2024-02-13 10:59:22.248498;Produto B;Televendas;4;12.38
+2023-09-16 10:59:22.248500;Produto A;Televendas;3;87.42
+2023-07-28 10:59:22.248503;Produto D;Loja Física;2;82.33
+2024-02-28 10:59:22.248505;Produto D;Pessoa Juridica;9;41.13
+2024-01-18 10:59:22.248508;Produto D;Pessoa Juridica;2;68.61
+2023-06-07 10:59:22.248511;Produto C;Pessoa Juridica;3;70.31
+2024-02-22 10:59:22.248513;Produto A;Loja Física;2;78.61
+2023-07-22 10:59:22.248516;Produto A;Loja Física;6;96.01
+2023-12-19 10:59:22.248518;Produto C;Televendas;5;15.36
+2024-01-08 10:59:22.248521;Produto C;Televendas;3;21.1
+2024-04-05 10:59:22.248523;Produto C;Televendas;2;96.22
+2023-10-29 10:59:22.248526;Produto D;Televendas;5;59.2
+2023-06-29 10:59:22.248528;Produto C;Loja Física;5;74.07
+2023-07-29 10:59:22.248531;Produto A;Loja Física;9;47.22
+2023-09-02 10:59:22.248534;Produto B;Loja Física;6;36.43
+2023-10-11 10:59:22.248536;Produto B;Loja Física;2;51.8
+2024-03-03 10:59:22.248539;Produto B;Loja Física;5;30.53
+2023-08-10 10:59:22.248541;Produto C;Pessoa Juridica;5;80.39
+2023-12-21 10:59:22.248544;Produto D;Televendas;6;73.62
+2023-07-18 10:59:22.248547;Produto A;Televendas;6;89.24
+2023-06-24 10:59:22.248549;Produto B;Loja Física;7;71.52
+2023-06-22 10:59:22.248552;Produto D;Loja Física;10;31.48
+2024-04-03 10:59:22.248554;Produto C;Televendas;2;91.43
+2023-08-30 10:59:22.248557;Produto A;Televendas;7;93.0
+2024-04-17 10:59:22.248559;Produto B;Loja Física;3;50.71
+2024-01-07 10:59:22.248562;Produto D;Loja Física;9;12.46
+2023-05-21 10:59:22.248564;Produto D;Televendas;10;83.35
+2024-05-11 10:59:22.248567;Produto D;Pessoa Juridica;8;73.26
+2023-10-06 10:59:22.248569;Produto B;Pessoa Juridica;9;44.72
+2024-04-23 10:59:22.248572;Produto B;Pessoa Juridica;6;78.36
+2023-08-07 10:59:22.248574;Produto D;Loja Física;10;66.71
+2024-01-15 10:59:22.248577;Produto D;Loja Física;2;48.91
+2023-09-19 10:59:22.248579;Produto B;Televendas;3;67.54
+2024-04-19 10:59:22.248582;Produto C;Pessoa Juridica;2;38.58
+2023-09-09 10:59:22.248584;Produto D;Loja Física;10;95.8
+2023-12-19 10:59:22.248587;Produto A;Televendas;8;85.94
+2024-03-09 10:59:22.248589;Produto B;Televendas;3;98.02
+2023-09-01 10:59:22.248592;Produto D;Loja Física;6;62.29
+2023-06-20 10:59:22.248595;Produto C;Pessoa Juridica;4;15.68
+2023-11-07 10:59:22.248597;Produto B;Loja Física;9;93.25
+2024-01-10 10:59:22.248599;Produto B;Televendas;7;42.2
+2023-06-02 10:59:22.248602;Produto A;Loja Física;2;76.09
+2023-05-20 10:59:22.248604;Produto D;Televendas;2;31.49
+2023-06-16 10:59:22.248607;Produto C;Loja Física;2;67.87
+2024-04-28 10:59:22.248610;Produto B;Pessoa Juridica;2;10.99
+2024-02-01 10:59:22.248612;Produto B;Loja Física;5;35.54
+2023-09-19 10:59:22.248614;Produto A;Televendas;4;43.73
+2023-08-27 10:59:22.248617;Produto A;Loja Física;3;95.99
+2024-01-16 10:59:22.248619;Produto D;Televendas;1;67.21
+2023-12-01 10:59:22.248623;Produto D;Loja Física;2;37.0
+2023-09-08 10:59:22.248628;Produto A;Televendas;4;68.68
+2023-08-04 10:59:22.248633;Produto D;Loja Física;9;40.82
+2023-08-02 10:59:22.248638;Produto D;Pessoa Juridica;10;16.65
+2023-10-11 10:59:22.248643;Produto B;Televendas;3;31.11
+2023-11-13 10:59:22.248647;Produto C;Televendas;10;88.92
+2024-01-22 10:59:22.248651;Produto A;Loja Física;3;85.6
+2024-03-11 10:59:22.248656;Produto A;Televendas;2;65.3
+2023-07-19 10:59:22.248660;Produto D;Televendas;7;34.34
+2024-04-16 10:59:22.248665;Produto D;Televendas;2;77.55
+2023-11-03 10:59:22.248670;Produto A;Loja Física;4;22.17
+2024-05-02 10:59:22.248676;Produto C;Loja Física;2;79.57
+2023-07-18 10:59:22.248680;Produto B;Loja Física;6;83.17
+2023-05-22 10:59:22.248685;Produto D;Loja Física;3;89.45
+2023-12-19 10:59:22.248689;Produto A;Loja Física;5;15.51
+2023-07-11 10:59:22.248693;Produto A;Loja Física;3;62.96
+2023-11-29 10:59:22.248698;Produto C;Pessoa Juridica;4;30.4
+2023-12-04 10:59:22.248722;Produto A;Pessoa Juridica;2;12.87
+2023-07-26 10:59:22.248739;Produto D;Televendas;3;24.39
+2023-12-30 10:59:22.248744;Produto B;Pessoa Juridica;3;65.7
+2023-06-20 10:59:22.248748;Produto D;Televendas;2;68.26
+2023-05-30 10:59:22.248754;Produto B;Televendas;9;12.34
+2023-12-01 10:59:22.248759;Produto A;Pessoa Juridica;8;28.34
+2023-12-17 10:59:22.248763;Produto B;Televendas;5;81.28
+2023-11-30 10:59:22.248768;Produto B;Televendas;10;38.17
+2023-12-13 10:59:22.248772;Produto C;Loja Física;4;80.19
+2024-04-23 10:59:22.248777;Produto B;Loja Física;3;42.27
+2023-12-19 10:59:22.248781;Produto B;Televendas;7;42.07
+2023-09-25 10:59:22.248786;Produto A;Loja Física;8;52.89
+2023-07-22 10:59:22.248790;Produto D;Televendas;7;72.52
+2023-10-09 10:59:22.248794;Produto D;Pessoa Juridica;3;86.79
+2024-01-15 10:59:22.248799;Produto D;Televendas;5;85.69
+2024-03-03 10:59:22.248803;Produto B;Pessoa Juridica;6;64.64
+2023-12-01 10:59:22.248808;Produto A;Televendas;3;71.56
+2024-02-25 10:59:22.248813;Produto D;Pessoa Juridica;2;86.71
+2024-02-18 10:59:22.248818;Produto C;Televendas;4;53.61
+2023-09-15 10:59:22.248822;Produto B;Pessoa Juridica;8;68.57
+2023-07-20 10:59:22.248825;Produto B;Televendas;2;33.33
+2024-05-14 10:59:22.248827;Produto D;Televendas;5;45.61
+2023-07-22 10:59:22.248830;Produto A;Loja Física;6;91.42
+2024-03-18 10:59:22.248833;Produto A;Loja Física;8;23.2
+2023-11-20 10:59:22.248836;Produto A;Loja Física;5;29.74
+2024-02-07 10:59:22.248839;Produto A;Loja Física;6;12.79
+2023-07-06 10:59:22.248841;Produto B;Loja Física;7;20.93
+2023-10-27 10:59:22.248844;Produto A;Televendas;10;53.78
+2023-09-18 10:59:22.248848;Produto A;Televendas;5;62.19
+2023-06-01 10:59:22.248852;Produto C;Loja Física;8;43.17
+2023-11-17 10:59:22.248857;Produto B;Televendas;5;45.64
+2023-10-08 10:59:22.248894;Produto A;Televendas;9;91.28
+2023-11-06 10:59:22.248901;Produto C;Loja Física;4;30.9
+2023-08-25 10:59:22.248905;Produto A;Televendas;3;28.18
+2024-01-02 10:59:22.248909;Produto D;Televendas;7;17.77
+2023-06-01 10:59:22.248912;Produto A;Pessoa Juridica;8;65.82
+2023-05-25 10:59:22.248915;Produto A;Televendas;10;77.54
+2023-10-04 10:59:22.248917;Produto D;Televendas;1;21.99
+2024-02-04 10:59:22.248920;Produto C;Pessoa Juridica;2;10.16
+2024-04-06 10:59:22.248922;Produto A;Televendas;2;65.82
+2023-09-11 10:59:22.248925;Produto B;Televendas;8;77.48
+2023-10-11 10:59:22.248928;Produto B;Pessoa Juridica;10;52.51
+2023-07-23 10:59:22.248930;Produto C;Pessoa Juridica;5;50.7
+2023-09-13 10:59:22.248933;Produto B;Pessoa Juridica;10;76.47
+2024-03-16 10:59:22.248935;Produto C;Televendas;6;14.05
+2024-02-14 10:59:22.248938;Produto B;Pessoa Juridica;6;77.27
+2024-01-28 10:59:22.248940;Produto B;Pessoa Juridica;9;78.76
+2023-11-21 10:59:22.248943;Produto D;Loja Física;2;96.86
+2023-05-22 10:59:22.248945;Produto C;Televendas;1;27.33
+2024-04-26 10:59:22.248948;Produto B;Televendas;1;47.94
+2024-01-20 10:59:22.248950;Produto A;Televendas;9;51.26
+2023-08-29 10:59:22.248953;Produto A;Pessoa Juridica;7;23.41
+2023-07-03 10:59:22.248955;Produto B;Televendas;9;16.07
+2024-03-12 10:59:22.248958;Produto C;Televendas;10;97.18
+2023-06-06 10:59:22.248960;Produto D;Pessoa Juridica;4;88.43
+2024-02-29 10:59:22.248964;Produto C;Pessoa Juridica;3;28.96
+2024-04-01 10:59:22.248967;Produto C;Loja Física;3;21.75
+2024-03-26 10:59:22.248970;Produto D;Loja Física;5;57.0
+2023-07-05 10:59:22.248972;Produto B;Pessoa Juridica;2;38.52
+2023-07-27 10:59:22.248975;Produto B;Televendas;7;55.85
+2023-08-04 10:59:22.248978;Produto C;Loja Física;6;45.52
+2024-04-07 10:59:22.248980;Produto C;Loja Física;3;72.84
+2023-09-06 10:59:22.248983;Produto C;Loja Física;4;21.99
+2024-02-15 10:59:22.248985;Produto C;Pessoa Juridica;7;33.91
+2023-08-17 10:59:22.248988;Produto D;Loja Física;8;77.51
+2024-04-07 10:59:22.248990;Produto D;Loja Física;2;44.4
+2023-11-27 10:59:22.248993;Produto D;Pessoa Juridica;4;73.57
+2023-06-29 10:59:22.248995;Produto D;Pessoa Juridica;7;69.94
+2024-02-15 10:59:22.248998;Produto C;Pessoa Juridica;7;56.0
+2023-06-19 10:59:22.249000;Produto A;Pessoa Juridica;9;39.8
+2024-03-12 10:59:22.249003;Produto A;Televendas;4;59.43
+2024-02-10 10:59:22.249005;Produto D;Pessoa Juridica;3;27.2
+2023-11-23 10:59:22.249008;Produto A;Loja Física;4;19.91
+2023-10-03 10:59:22.249010;Produto A;Loja Física;2;30.77
+2024-04-01 10:59:22.249013;Produto C;Pessoa Juridica;10;96.4
+2023-11-17 10:59:22.249015;Produto D;Pessoa Juridica;6;75.59
+2023-12-12 10:59:22.249017;Produto C;Televendas;6;74.03
+2024-04-07 10:59:22.249020;Produto C;Loja Física;8;59.46
+2023-12-15 10:59:22.249022;Produto D;Televendas;9;91.24
+2023-09-04 10:59:22.249025;Produto D;Pessoa Juridica;3;11.15
+2024-02-28 10:59:22.249028;Produto A;Pessoa Juridica;6;83.16
+2023-07-22 10:59:22.249030;Produto D;Loja Física;4;93.39
+2023-10-19 10:59:22.249033;Produto A;Pessoa Juridica;4;88.45
+2023-11-20 10:59:22.249035;Produto D;Televendas;5;83.23
+2023-09-29 10:59:22.249038;Produto A;Televendas;4;52.93
+2023-12-23 10:59:22.249040;Produto B;Pessoa Juridica;10;63.33
+2023-11-02 10:59:22.249043;Produto A;Loja Física;3;83.71
+2023-11-06 10:59:22.249045;Produto B;Televendas;7;12.81
+2023-06-17 10:59:22.249048;Produto D;Televendas;4;37.78
+2023-06-24 10:59:22.249050;Produto D;Televendas;1;75.38
+2023-10-14 10:59:22.249053;Produto C;Televendas;10;21.08
+2023-08-30 10:59:22.249056;Produto C;Televendas;4;80.95
+2023-12-22 10:59:22.249058;Produto A;Pessoa Juridica;2;20.57
+2023-09-06 10:59:22.249061;Produto C;Televendas;5;41.8
+2023-08-31 10:59:22.249063;Produto A;Televendas;9;11.35
+2024-02-03 10:59:22.249066;Produto B;Loja Física;5;13.97
+2023-12-25 10:59:22.249069;Produto B;Loja Física;3;47.27
+2023-07-26 10:59:22.249071;Produto C;Pessoa Juridica;9;45.96
+2024-02-20 10:59:22.249074;Produto B;Loja Física;7;75.48
+2023-06-03 10:59:22.249076;Produto A;Pessoa Juridica;2;14.4
+2023-12-26 10:59:22.249079;Produto B;Televendas;7;82.33
+2023-06-13 10:59:22.249081;Produto B;Loja Física;8;73.83
+2023-12-26 10:59:22.249084;Produto D;Loja Física;2;61.89
+2023-09-21 10:59:22.249087;Produto B;Televendas;5;64.99
+2023-05-22 10:59:22.249089;Produto A;Loja Física;10;41.96
+2023-12-29 10:59:22.249092;Produto B;Televendas;4;20.63
+2024-02-26 10:59:22.249094;Produto A;Televendas;2;23.93
+2023-07-28 10:59:22.249096;Produto B;Loja Física;8;23.15
+2024-02-06 10:59:22.249099;Produto A;Televendas;3;27.13
+2024-05-12 10:59:22.249102;Produto A;Pessoa Juridica;5;71.39
+2023-08-06 10:59:22.249104;Produto B;Loja Física;2;33.61
+2024-03-20 10:59:22.249107;Produto D;Televendas;4;20.62
+2023-12-30 10:59:22.249109;Produto D;Pessoa Juridica;2;63.55
+2024-02-01 10:59:22.249112;Produto B;Televendas;8;83.38
+2023-09-17 10:59:22.249114;Produto A;Loja Física;9;51.01
+2024-01-11 10:59:22.249117;Produto C;Loja Física;6;94.73
+2024-02-11 10:59:22.249119;Produto A;Televendas;8;34.84
+2023-11-03 10:59:22.249121;Produto D;Televendas;8;96.55
+2023-10-22 10:59:22.249124;Produto A;Loja Física;4;18.02
+2024-01-09 10:59:22.249126;Produto B;Televendas;10;78.28
+2023-11-29 10:59:22.249129;Produto B;Televendas;10;57.19
+2024-04-07 10:59:22.249131;Produto B;Pessoa Juridica;7;35.46
+2023-09-29 10:59:22.249134;Produto D;Televendas;5;27.24
+2023-08-17 10:59:22.249136;Produto C;Televendas;8;15.53
+2023-12-25 10:59:22.249139;Produto D;Loja Física;10;19.4
+2024-01-27 10:59:22.249141;Produto A;Loja Física;6;50.56
+2024-01-11 10:59:22.249144;Produto D;Pessoa Juridica;8;49.46
+2023-06-15 10:59:22.249146;Produto A;Pessoa Juridica;2;88.41
+2024-04-08 10:59:22.249149;Produto C;Televendas;8;97.33
+2023-12-27 10:59:22.249151;Produto B;Televendas;4;94.68
+2024-03-24 10:59:22.249154;Produto A;Televendas;10;75.79
+2023-07-28 10:59:22.249156;Produto C;Televendas;4;58.51
+2024-04-12 10:59:22.249159;Produto A;Pessoa Juridica;2;92.57
+2024-02-01 10:59:22.249161;Produto A;Televendas;6;90.76
+2023-12-19 10:59:22.249164;Produto A;Televendas;10;35.71
+2024-04-19 10:59:22.249166;Produto D;Loja Física;2;97.33
+2023-08-13 10:59:22.249169;Produto D;Pessoa Juridica;4;93.93
+2023-05-17 10:59:22.249171;Produto C;Loja Física;6;97.61
+2024-04-29 10:59:22.249174;Produto B;Televendas;8;22.02
+2023-06-11 10:59:22.249176;Produto B;Pessoa Juridica;3;64.79
+2023-12-07 10:59:22.249185;Produto A;Loja Física;10;48.52
+2024-03-10 10:59:22.249188;Produto C;Pessoa Juridica;10;33.88
+2023-10-04 10:59:22.249190;Produto D;Loja Física;5;67.17
+2023-06-23 10:59:22.249193;Produto D;Televendas;7;32.96
+2024-02-23 10:59:22.249195;Produto A;Pessoa Juridica;9;60.31
+2023-06-19 10:59:22.249198;Produto D;Pessoa Juridica;3;21.54
+2023-12-14 10:59:22.249200;Produto C;Loja Física;1;46.99
+2024-03-30 10:59:22.249203;Produto B;Loja Física;6;71.0
+2023-08-06 10:59:22.249205;Produto B;Pessoa Juridica;6;66.53
+2023-09-23 10:59:22.249208;Produto C;Pessoa Juridica;6;25.51
+2023-08-01 10:59:22.249210;Produto B;Televendas;6;96.58
+2024-03-14 10:59:22.249213;Produto C;Loja Física;5;18.52
+2023-12-07 10:59:22.249216;Produto C;Pessoa Juridica;9;69.64
+2024-03-05 10:59:22.249218;Produto B;Loja Física;7;50.07
+2023-06-15 10:59:22.249221;Produto C;Pessoa Juridica;10;40.57
+2023-10-05 10:59:22.249223;Produto A;Televendas;7;28.28
+2023-07-10 10:59:22.249226;Produto C;Televendas;6;28.44
+2024-03-25 10:59:22.249228;Produto A;Loja Física;6;40.45
+2024-01-28 10:59:22.249231;Produto A;Loja Física;9;52.77
+2024-01-16 10:59:22.249233;Produto B;Loja Física;7;54.36
+2023-10-01 10:59:22.249236;Produto C;Loja Física;5;21.2
+2023-05-18 10:59:22.249238;Produto D;Pessoa Juridica;2;63.89
+2023-05-31 10:59:22.249241;Produto C;Pessoa Juridica;9;20.65
+2023-08-18 10:59:22.249244;Produto B;Televendas;6;25.17
+2023-09-08 10:59:22.249246;Produto B;Pessoa Juridica;2;68.05
+2023-08-18 10:59:22.249249;Produto B;Pessoa Juridica;7;59.7
+2024-04-19 10:59:22.249251;Produto D;Pessoa Juridica;6;78.25
+2023-08-18 10:59:22.249254;Produto C;Loja Física;10;23.13
+2024-01-29 10:59:22.249256;Produto D;Televendas;9;59.83
+2023-05-21 10:59:22.249259;Produto D;Loja Física;1;56.34
+2024-05-01 10:59:22.249261;Produto D;Pessoa Juridica;10;94.25
+2024-04-18 10:59:22.249264;Produto D;Televendas;7;16.47
+2023-10-12 10:59:22.249266;Produto B;Loja Física;3;20.72
+2023-10-10 10:59:22.249269;Produto C;Loja Física;7;24.09
+2023-08-31 10:59:22.249271;Produto C;Loja Física;1;34.63
+2024-01-13 10:59:22.249274;Produto A;Pessoa Juridica;9;86.82
+2023-07-30 10:59:22.249276;Produto D;Loja Física;1;73.54
+2023-05-22 10:59:22.249279;Produto D;Loja Física;9;92.22
+2023-06-24 10:59:22.249282;Produto D;Loja Física;4;22.17
+2024-01-28 10:59:22.249285;Produto A;Loja Física;2;41.53
+2024-05-10 10:59:22.249287;Produto D;Pessoa Juridica;1;79.85
+2023-10-26 10:59:22.249290;Produto C;Loja Física;8;61.23
+2024-03-01 10:59:22.249292;Produto D;Loja Física;3;82.2
+2023-10-04 10:59:22.249294;Produto B;Pessoa Juridica;8;81.35
+2024-03-30 10:59:22.249297;Produto D;Pessoa Juridica;9;64.91
+2024-04-17 10:59:22.249299;Produto C;Pessoa Juridica;6;73.83
+2023-10-26 10:59:22.249302;Produto A;Pessoa Juridica;6;94.73
+2024-01-05 10:59:22.249304;Produto C;Loja Física;7;99.97
+2023-07-05 10:59:22.249307;Produto C;Pessoa Juridica;9;65.4
+2023-06-16 10:59:22.249310;Produto B;Pessoa Juridica;8;55.94
+2024-02-05 10:59:22.249312;Produto A;Loja Física;2;10.0
+2023-12-03 10:59:22.249314;Produto D;Loja Física;1;16.32
+2024-02-19 10:59:22.249317;Produto D;Loja Física;7;69.57
+2023-08-24 10:59:22.249319;Produto B;Televendas;6;44.84
+2023-11-27 10:59:22.249322;Produto A;Televendas;7;81.24
+2024-04-21 10:59:22.249324;Produto B;Pessoa Juridica;9;51.5
+2023-05-21 10:59:22.249327;Produto D;Loja Física;3;29.74
+2023-06-10 10:59:22.249330;Produto A;Televendas;5;85.92
+2023-10-25 10:59:22.249332;Produto C;Loja Física;6;11.7
+2024-01-25 10:59:22.249335;Produto B;Televendas;6;78.24
+2023-12-31 10:59:22.249337;Produto A;Pessoa Juridica;1;27.7
+2024-02-26 10:59:22.249340;Produto D;Pessoa Juridica;10;40.82
+2024-01-01 10:59:22.249342;Produto B;Loja Física;2;85.89
+2023-10-02 10:59:22.249345;Produto B;Televendas;9;67.78
+2023-09-05 10:59:22.249348;Produto C;Loja Física;6;89.65
+2024-04-12 10:59:22.249350;Produto D;Televendas;3;10.98
+2023-09-23 10:59:22.249353;Produto B;Pessoa Juridica;1;89.05
+2023-07-02 10:59:22.249355;Produto A;Pessoa Juridica;5;87.76
+2024-05-03 10:59:22.249358;Produto C;Pessoa Juridica;2;38.29
+2023-07-07 10:59:22.249360;Produto B;Pessoa Juridica;5;98.39
+2023-11-27 10:59:22.249363;Produto D;Pessoa Juridica;6;28.4
+2023-08-21 10:59:22.249365;Produto A;Loja Física;8;86.8
+2024-04-22 10:59:22.249367;Produto A;Loja Física;4;39.58
+2024-01-14 10:59:22.249370;Produto B;Pessoa Juridica;5;31.67
+2023-12-18 10:59:22.249372;Produto B;Televendas;4;33.7
+2024-02-07 10:59:22.249375;Produto D;Pessoa Juridica;6;86.95
+2023-07-01 10:59:22.249377;Produto C;Pessoa Juridica;10;27.93
+2024-05-05 10:59:22.249380;Produto B;Televendas;9;42.96
+2023-10-11 10:59:22.249382;Produto A;Televendas;4;69.59
+2024-03-21 10:59:22.249385;Produto C;Pessoa Juridica;6;81.95
+2023-08-03 10:59:22.249387;Produto D;Pessoa Juridica;9;91.25
+2023-07-13 10:59:22.249390;Produto C;Televendas;4;10.61
+2024-02-25 10:59:22.249393;Produto A;Televendas;5;94.35
+2024-05-08 10:59:22.249395;Produto D;Pessoa Juridica;10;99.73
+2024-03-09 10:59:22.249437;Produto D;Pessoa Juridica;4;53.1
+2024-03-27 10:59:22.249448;Produto D;Pessoa Juridica;9;33.97
+2023-06-18 10:59:22.249454;Produto D;Loja Física;6;10.99
+2023-12-03 10:59:22.249460;Produto A;Televendas;10;58.15
+2023-06-05 10:59:22.249464;Produto D;Televendas;4;45.96
+2024-03-07 10:59:22.249467;Produto C;Televendas;5;86.83
+2023-06-08 10:59:22.249470;Produto C;Loja Física;8;49.2
+2023-08-15 10:59:22.249473;Produto B;Pessoa Juridica;6;96.76
+2024-01-03 10:59:22.249476;Produto D;Pessoa Juridica;2;50.64
+2024-05-04 10:59:22.249478;Produto B;Loja Física;1;35.37
+2023-12-10 10:59:22.249481;Produto C;Televendas;2;64.81
+2023-07-21 10:59:22.249483;Produto A;Televendas;3;82.93
+2023-12-14 10:59:22.249486;Produto C;Pessoa Juridica;7;92.18
+2023-08-07 10:59:22.249489;Produto A;Televendas;7;29.8
+2023-06-24 10:59:22.249491;Produto D;Loja Física;3;37.84
+2024-05-06 10:59:22.249494;Produto C;Televendas;10;90.72
+2024-04-10 10:59:22.249496;Produto B;Pessoa Juridica;4;42.89
+2023-08-09 10:59:22.249499;Produto C;Televendas;4;79.41
+2023-11-01 10:59:22.249502;Produto C;Televendas;1;89.37
+2023-11-10 10:59:22.249504;Produto A;Loja Física;1;43.29
+2023-10-27 10:59:22.249507;Produto B;Televendas;10;52.41
+2023-10-03 10:59:22.249510;Produto B;Televendas;5;65.66
+2023-09-15 10:59:22.249512;Produto B;Televendas;6;28.86
+2023-11-05 10:59:22.249515;Produto B;Loja Física;4;27.9
+2023-11-11 10:59:22.249517;Produto C;Pessoa Juridica;6;11.16
+2023-06-17 10:59:22.249520;Produto C;Televendas;7;50.91
+2024-02-11 10:59:22.249522;Produto D;Pessoa Juridica;6;41.86
+2024-01-16 10:59:22.249525;Produto A;Pessoa Juridica;1;57.05
+2023-06-22 10:59:22.249528;Produto C;Televendas;10;88.97
+2023-07-17 10:59:22.249530;Produto B;Televendas;4;64.55
+2023-05-25 10:59:22.249533;Produto C;Televendas;10;75.19
+2024-04-29 10:59:22.249536;Produto B;Loja Física;1;19.84
+2024-03-29 10:59:22.249539;Produto B;Loja Física;3;72.97
+2023-05-22 10:59:22.249541;Produto D;Televendas;6;43.94
+2023-06-26 10:59:22.249544;Produto B;Televendas;1;66.27
+2023-07-26 10:59:22.249547;Produto A;Loja Física;3;11.29
+2023-08-18 10:59:22.249550;Produto D;Loja Física;5;84.84
+2024-02-01 10:59:22.249552;Produto A;Pessoa Juridica;6;91.85
+2024-02-11 10:59:22.249555;Produto A;Pessoa Juridica;7;27.24
+2023-08-31 10:59:22.249558;Produto D;Televendas;6;78.65
+2024-04-29 10:59:22.249560;Produto B;Pessoa Juridica;8;75.2
+2023-09-19 10:59:22.249563;Produto C;Televendas;1;20.24
+2023-09-19 10:59:22.249566;Produto C;Televendas;5;86.38
+2023-08-28 10:59:22.249568;Produto B;Televendas;6;22.72
+2023-10-08 10:59:22.249571;Produto C;Televendas;4;34.16
+2023-11-23 10:59:22.249574;Produto A;Loja Física;4;64.58
+2023-06-17 10:59:22.249577;Produto C;Pessoa Juridica;10;16.53
+2023-09-24 10:59:22.249579;Produto C;Televendas;2;43.04
+2023-06-22 10:59:22.249582;Produto D;Pessoa Juridica;9;95.77
+2023-10-29 10:59:22.249584;Produto B;Televendas;9;84.79
+2023-05-26 10:59:22.249587;Produto C;Televendas;2;58.05
+2024-04-22 10:59:22.249591;Produto A;Pessoa Juridica;2;63.52
+2024-04-02 10:59:22.249594;Produto C;Televendas;3;35.02
+2024-01-05 10:59:22.249596;Produto D;Pessoa Juridica;2;98.51
+2023-11-30 10:59:22.249599;Produto B;Pessoa Juridica;9;66.08
+2023-06-18 10:59:22.249602;Produto B;Loja Física;1;45.31
+2024-03-18 10:59:22.249605;Produto D;Pessoa Juridica;2;97.99
+2024-03-03 10:59:22.249607;Produto B;Pessoa Juridica;9;26.52
+2023-08-04 10:59:22.249610;Produto B;Loja Física;8;66.01
+2023-05-17 10:59:22.249613;Produto B;Loja Física;5;68.18
+2024-03-18 10:59:22.249616;Produto B;Pessoa Juridica;10;40.56
+2023-08-10 10:59:22.249619;Produto B;Pessoa Juridica;1;21.63
+2023-09-20 10:59:22.249622;Produto B;Televendas;4;66.76
+2024-05-15 10:59:22.249624;Produto C;Televendas;2;45.71
+2023-10-23 10:59:22.249627;Produto B;Loja Física;3;44.45
+2024-01-16 10:59:22.249629;Produto C;Pessoa Juridica;6;42.45
+2023-10-25 10:59:22.249632;Produto D;Televendas;6;96.54
+2023-11-13 10:59:22.249635;Produto A;Pessoa Juridica;9;84.15
+2024-04-04 10:59:22.249638;Produto C;Loja Física;5;76.26
+2023-06-01 10:59:22.249640;Produto A;Televendas;1;15.85
+2023-07-17 10:59:22.249643;Produto D;Pessoa Juridica;2;63.92
+2023-08-05 10:59:22.249646;Produto A;Pessoa Juridica;7;16.56
+2023-05-31 10:59:22.249648;Produto D;Loja Física;2;90.42
+2024-01-21 10:59:22.249651;Produto C;Loja Física;8;12.98
+2023-07-17 10:59:22.249654;Produto A;Televendas;7;27.29
+2023-09-17 10:59:22.249656;Produto C;Televendas;5;45.53
+2023-09-19 10:59:22.249659;Produto D;Loja Física;9;19.28
+2023-08-13 10:59:22.249661;Produto A;Televendas;4;63.26
+2024-03-26 10:59:22.249664;Produto C;Televendas;6;58.96
+2023-09-14 10:59:22.249667;Produto B;Pessoa Juridica;10;78.2
+2023-06-06 10:59:22.249669;Produto D;Televendas;5;12.6
+2023-09-15 10:59:22.249672;Produto A;Pessoa Juridica;1;89.45
+2024-04-13 10:59:22.249674;Produto D;Televendas;5;15.76
+2024-04-02 10:59:22.249677;Produto C;Pessoa Juridica;10;15.8
+2024-04-16 10:59:22.249683;Produto C;Pessoa Juridica;9;57.25
+2023-07-22 10:59:22.249686;Produto D;Televendas;9;49.27
+2023-06-20 10:59:22.249689;Produto D;Loja Física;6;30.79
+2024-02-10 10:59:22.249691;Produto A;Pessoa Juridica;1;39.77
+2023-07-26 10:59:22.249694;Produto C;Pessoa Juridica;10;48.24
+2023-05-21 10:59:22.249697;Produto A;Loja Física;6;58.02
+2023-09-22 10:59:22.249699;Produto B;Televendas;10;48.02
+2024-05-07 10:59:22.249702;Produto D;Pessoa Juridica;2;66.12
+2024-03-26 10:59:22.249704;Produto D;Pessoa Juridica;1;66.29
+2024-02-24 10:59:22.249707;Produto C;Pessoa Juridica;9;42.65
+2023-06-14 10:59:22.249710;Produto A;Televendas;6;90.09
+2024-01-29 10:59:22.249712;Produto C;Televendas;7;61.56
+2024-01-21 10:59:22.249715;Produto C;Loja Física;5;49.55
+2023-12-14 10:59:22.249718;Produto B;Loja Física;3;19.2
+2024-03-22 10:59:22.249721;Produto D;Televendas;1;73.24
+2023-11-30 10:59:22.249724;Produto B;Pessoa Juridica;3;75.65
+2023-10-22 10:59:22.249726;Produto B;Televendas;10;33.09
+2023-12-20 10:59:22.249729;Produto A;Loja Física;1;59.09
+2023-08-27 10:59:22.249732;Produto C;Televendas;2;85.78
+2024-01-20 10:59:22.249734;Produto B;Loja Física;7;74.87
+2023-09-10 10:59:22.249737;Produto B;Pessoa Juridica;6;40.98
+2023-12-20 10:59:22.249740;Produto D;Pessoa Juridica;2;71.38
+2023-10-24 10:59:22.249742;Produto B;Loja Física;7;26.5
+2023-12-18 10:59:22.249745;Produto C;Pessoa Juridica;5;93.86
+2023-12-06 10:59:22.249747;Produto A;Loja Física;9;44.72
+2023-11-23 10:59:22.249750;Produto C;Pessoa Juridica;10;54.75
+2023-09-18 10:59:22.249752;Produto C;Pessoa Juridica;1;69.99
+2024-03-02 10:59:22.249755;Produto B;Televendas;10;69.04
+2023-06-03 10:59:22.249757;Produto B;Loja Física;3;59.97
+2024-03-01 10:59:22.249760;Produto C;Loja Física;1;80.21
+2023-08-09 10:59:22.249763;Produto A;Pessoa Juridica;2;31.77
+2024-02-02 10:59:22.249765;Produto B;Televendas;2;62.08
+2023-09-07 10:59:22.249768;Produto D;Pessoa Juridica;6;97.72
+2023-06-21 10:59:22.249771;Produto A;Pessoa Juridica;2;27.5
+2023-07-07 10:59:22.249774;Produto A;Loja Física;10;47.11
+2023-10-26 10:59:22.249776;Produto D;Pessoa Juridica;4;86.8
+2023-12-07 10:59:22.249779;Produto B;Pessoa Juridica;2;99.63
+2024-03-20 10:59:22.249782;Produto A;Pessoa Juridica;7;20.99
+2023-10-13 10:59:22.249784;Produto C;Loja Física;1;31.13
+2023-11-05 10:59:22.249787;Produto A;Televendas;1;92.73
+2023-12-20 10:59:22.249790;Produto D;Loja Física;6;52.34
+2023-09-27 10:59:22.249792;Produto B;Loja Física;3;69.91
+2024-05-13 10:59:22.249795;Produto D;Televendas;9;38.85
+2023-08-08 10:59:22.249797;Produto D;Loja Física;4;46.03
+2023-07-30 10:59:22.249800;Produto C;Pessoa Juridica;1;65.51
+2024-03-01 10:59:22.249803;Produto B;Televendas;5;77.4
+2023-08-01 10:59:22.249806;Produto A;Loja Física;1;80.56
+2023-12-08 10:59:22.249809;Produto A;Televendas;3;27.03
+2023-06-09 10:59:22.249811;Produto D;Loja Física;4;54.81
+2023-10-22 10:59:22.249814;Produto B;Loja Física;1;55.81
+2023-06-06 10:59:22.249816;Produto D;Pessoa Juridica;7;28.15
+2023-11-28 10:59:22.249819;Produto D;Loja Física;7;47.76
+2023-12-22 10:59:22.249822;Produto C;Pessoa Juridica;8;52.25
+2023-09-10 10:59:22.249824;Produto C;Pessoa Juridica;6;77.68
+2023-06-23 10:59:22.249827;Produto C;Pessoa Juridica;10;13.04
+2023-08-06 10:59:22.249830;Produto C;Pessoa Juridica;6;29.58
+2024-04-15 10:59:22.249832;Produto B;Pessoa Juridica;7;76.59
+2023-08-18 10:59:22.249835;Produto B;Televendas;10;60.02
+2023-10-27 10:59:22.249838;Produto B;Loja Física;9;44.4
+2023-07-10 10:59:22.249840;Produto A;Loja Física;10;30.87
+2024-03-12 10:59:22.249843;Produto C;Pessoa Juridica;6;85.47
+2023-10-26 10:59:22.249845;Produto B;Loja Física;9;25.49
+2023-10-07 10:59:22.249848;Produto C;Televendas;1;61.4
+2023-08-13 10:59:22.249851;Produto A;Televendas;8;80.5
+2024-05-11 10:59:22.249853;Produto C;Televendas;9;72.1
+2023-11-23 10:59:22.249856;Produto C;Televendas;5;26.75
+2023-07-02 10:59:22.249859;Produto B;Televendas;6;84.76
+2023-10-26 10:59:22.249861;Produto D;Loja Física;10;25.57
+2023-08-08 10:59:22.249864;Produto B;Loja Física;8;78.11
+2023-06-02 10:59:22.249866;Produto B;Pessoa Juridica;8;17.11
+2023-10-06 10:59:22.249869;Produto A;Pessoa Juridica;5;15.22
+2023-07-29 10:59:22.249872;Produto B;Pessoa Juridica;8;85.15
+2024-04-12 10:59:22.249874;Produto B;Loja Física;8;11.8
+2023-10-02 10:59:22.249877;Produto A;Loja Física;8;43.79
+2023-10-17 10:59:22.249880;Produto D;Loja Física;1;74.84
+2024-04-17 10:59:22.249882;Produto D;Televendas;4;67.72
+2023-08-09 10:59:22.249885;Produto A;Pessoa Juridica;8;24.67
+2023-10-16 10:59:22.249888;Produto A;Televendas;5;65.58
+2023-09-11 10:59:22.249891;Produto D;Loja Física;10;26.63
+2023-08-12 10:59:22.249893;Produto D;Pessoa Juridica;10;64.06
+2023-10-12 10:59:22.249896;Produto A;Pessoa Juridica;10;72.04
+2023-09-04 10:59:22.249899;Produto D;Televendas;5;71.13
+2023-06-28 10:59:22.249901;Produto B;Loja Física;3;35.2
+2023-11-10 10:59:22.249904;Produto C;Televendas;8;39.9
+2023-07-13 10:59:22.249908;Produto C;Loja Física;7;26.84
+2023-09-21 10:59:22.249911;Produto C;Loja Física;2;16.47
+2024-04-05 10:59:22.249914;Produto C;Televendas;10;55.47
+2024-03-02 10:59:22.249917;Produto C;Pessoa Juridica;10;21.99
+2023-12-05 10:59:22.249919;Produto A;Televendas;2;82.04
+2024-03-18 10:59:22.249922;Produto B;Loja Física;8;39.91
+2023-07-05 10:59:22.249924;Produto A;Televendas;8;71.73
+2024-03-14 10:59:22.249927;Produto A;Televendas;8;33.28
+2023-11-11 10:59:22.249930;Produto B;Loja Física;4;62.13
+2023-06-18 10:59:22.249932;Produto D;Televendas;1;36.86
+2024-03-10 10:59:22.249935;Produto B;Pessoa Juridica;1;96.61
+2023-10-17 10:59:22.249938;Produto D;Loja Física;1;46.59
+2023-09-15 10:59:22.249940;Produto A;Loja Física;9;35.13
+2023-06-25 10:59:22.249943;Produto A;Televendas;7;45.88
+2023-05-18 10:59:22.249946;Produto D;Televendas;4;26.59
+2024-02-11 10:59:22.249948;Produto B;Televendas;10;89.65
+2023-07-19 10:59:22.249951;Produto C;Televendas;6;25.96
+2023-06-26 10:59:22.249954;Produto D;Loja Física;2;79.01
+2023-08-29 10:59:22.249956;Produto B;Loja Física;10;97.72
+2023-09-28 10:59:22.249959;Produto A;Televendas;4;97.57
+2024-03-08 10:59:22.249962;Produto D;Loja Física;1;25.33
+2023-06-25 10:59:22.249964;Produto C;Pessoa Juridica;3;32.65
+2024-03-13 10:59:22.249967;Produto B;Pessoa Juridica;9;76.65
+2023-08-23 10:59:22.249970;Produto A;Pessoa Juridica;10;72.67
+2024-01-12 10:59:22.249973;Produto C;Pessoa Juridica;5;83.02
+2023-06-14 10:59:22.249975;Produto B;Loja Física;6;22.04
+2023-08-11 10:59:22.249978;Produto A;Televendas;3;36.49
+2023-08-09 10:59:22.249980;Produto D;Pessoa Juridica;1;88.72
+2024-01-17 10:59:22.249983;Produto B;Televendas;7;27.02
+2023-08-30 10:59:22.249986;Produto A;Pessoa Juridica;6;57.04
+2023-08-18 10:59:22.249989;Produto D;Loja Física;3;53.49
+2023-10-27 10:59:22.249991;Produto B;Televendas;1;83.93
+2024-02-27 10:59:22.249994;Produto B;Pessoa Juridica;5;73.15
+2023-11-26 10:59:22.249997;Produto B;Televendas;9;64.63
+2023-06-25 10:59:22.249999;Produto B;Pessoa Juridica;10;52.44
+2024-01-23 10:59:22.250002;Produto C;Televendas;8;88.94
+2023-12-02 10:59:22.250005;Produto A;Loja Física;9;17.77
+2023-11-06 10:59:22.250007;Produto A;Loja Física;5;66.14
+2023-11-18 10:59:22.250010;Produto D;Pessoa Juridica;5;37.41
+2023-06-20 10:59:22.250013;Produto B;Pessoa Juridica;8;16.03
+2023-05-27 10:59:22.250016;Produto A;Pessoa Juridica;6;23.94
+2024-02-03 10:59:22.250018;Produto D;Loja Física;10;24.71
+2023-11-26 10:59:22.250021;Produto A;Televendas;8;57.75
+2024-02-05 10:59:22.250024;Produto C;Pessoa Juridica;2;99.72
+2023-11-30 10:59:22.250026;Produto B;Loja Física;5;90.3
+2023-12-11 10:59:22.250029;Produto B;Loja Física;4;89.61
+2023-10-21 10:59:22.250032;Produto B;Televendas;4;85.01
+2024-03-11 10:59:22.250034;Produto C;Pessoa Juridica;3;57.32
+2023-10-30 10:59:22.250037;Produto C;Televendas;9;31.95
+2024-02-24 10:59:22.250040;Produto C;Pessoa Juridica;3;10.29
+2023-07-02 10:59:22.250042;Produto A;Loja Física;10;33.96
+2023-06-01 10:59:22.250045;Produto D;Loja Física;7;74.36
+2024-02-19 10:59:22.250048;Produto B;Loja Física;5;27.03
+2023-09-22 10:59:22.250051;Produto A;Televendas;1;44.13
+2024-02-27 10:59:22.250053;Produto C;Televendas;5;77.25
+2023-12-13 10:59:22.250056;Produto B;Loja Física;10;11.12
+2023-12-03 10:59:22.250058;Produto B;Loja Física;1;80.36
+2023-08-08 10:59:22.250061;Produto B;Loja Física;2;24.47
+2024-02-11 10:59:22.250064;Produto C;Pessoa Juridica;2;83.73
+2023-08-25 10:59:22.250066;Produto D;Televendas;3;56.39
+2023-10-13 10:59:22.250069;Produto C;Televendas;8;60.72
+2023-09-10 10:59:22.250072;Produto A;Loja Física;2;54.03
+2023-12-30 10:59:22.250074;Produto A;Pessoa Juridica;8;67.64
+2023-07-04 10:59:22.250077;Produto A;Pessoa Juridica;9;70.44
+2023-05-29 10:59:22.250080;Produto C;Loja Física;7;27.57
+2023-06-18 10:59:22.250082;Produto D;Pessoa Juridica;1;10.54
+2024-02-03 10:59:22.250085;Produto D;Loja Física;10;62.3
+2024-01-06 10:59:22.250088;Produto D;Pessoa Juridica;2;30.95
+2024-01-07 10:59:22.250090;Produto A;Pessoa Juridica;6;25.47
+2024-04-03 10:59:22.250093;Produto A;Loja Física;10;59.37
+2023-06-05 10:59:22.250096;Produto D;Pessoa Juridica;8;15.95
+2024-03-07 10:59:22.250098;Produto D;Televendas;10;15.39
+2024-05-15 10:59:22.250101;Produto C;Pessoa Juridica;7;32.1
+2024-03-18 10:59:22.250104;Produto C;Pessoa Juridica;3;95.49
+2024-04-16 10:59:22.250107;Produto D;Pessoa Juridica;7;27.77
+2023-09-07 10:59:22.250109;Produto C;Loja Física;7;97.59
+2024-03-09 10:59:22.250112;Produto D;Loja Física;3;84.89
+2023-11-10 10:59:22.250115;Produto A;Televendas;7;40.05
+2023-10-12 10:59:22.250117;Produto C;Pessoa Juridica;6;24.43
+2024-03-16 10:59:22.250120;Produto A;Loja Física;8;45.93
+2023-11-21 10:59:22.250123;Produto C;Pessoa Juridica;7;28.12
+2023-11-26 10:59:22.250125;Produto B;Televendas;5;79.9
+2023-07-01 10:59:22.250128;Produto A;Loja Física;9;20.22
+2024-04-18 10:59:22.250131;Produto C;Pessoa Juridica;7;80.43
+2024-02-04 10:59:22.250135;Produto B;Pessoa Juridica;7;84.07
+2023-08-31 10:59:22.250138;Produto B;Televendas;10;19.22
+2023-06-02 10:59:22.250141;Produto C;Televendas;1;77.05
+2023-08-22 10:59:22.250144;Produto A;Televendas;4;83.2
+2023-06-01 10:59:22.250147;Produto A;Loja Física;4;50.36
+2023-10-26 10:59:22.250149;Produto C;Pessoa Juridica;7;94.02
+2024-02-03 10:59:22.250152;Produto A;Televendas;8;72.91
+2024-02-23 10:59:22.250155;Produto A;Televendas;2;25.72
+2023-12-14 10:59:22.250157;Produto D;Loja Física;1;38.16
+2023-10-26 10:59:22.250160;Produto C;Pessoa Juridica;4;90.71
+2024-01-17 10:59:22.250163;Produto A;Loja Física;5;64.62
+2023-11-08 10:59:22.250165;Produto D;Televendas;4;17.74
+2023-06-17 10:59:22.250168;Produto D;Televendas;4;82.79
+2024-02-23 10:59:22.250170;Produto C;Pessoa Juridica;7;99.42
+2024-03-06 10:59:22.250173;Produto A;Loja Física;1;18.27
+2023-11-24 10:59:22.250176;Produto C;Loja Física;5;60.55
+2023-12-10 10:59:22.250178;Produto A;Televendas;1;73.21
+2023-06-17 10:59:22.250181;Produto A;Loja Física;1;47.54
+2024-04-30 10:59:22.250183;Produto B;Pessoa Juridica;5;63.02
+2023-10-01 10:59:22.250186;Produto D;Loja Física;9;61.32
+2023-12-07 10:59:22.250189;Produto D;Loja Física;1;67.55
+2024-02-05 10:59:22.250191;Produto D;Televendas;9;39.69
+2023-07-12 10:59:22.250194;Produto A;Pessoa Juridica;5;45.06
+2023-07-01 10:59:22.250196;Produto D;Pessoa Juridica;1;11.94
+2023-09-25 10:59:22.250199;Produto C;Loja Física;4;53.94
+2023-06-29 10:59:22.250203;Produto C;Loja Física;4;70.95
+2024-05-07 10:59:22.250206;Produto D;Televendas;4;71.3
+2024-03-31 10:59:22.250208;Produto D;Pessoa Juridica;5;37.28
+2023-10-08 10:59:22.250211;Produto A;Pessoa Juridica;7;49.74
+2023-05-28 10:59:22.250213;Produto B;Televendas;5;39.52
+2023-12-20 10:59:22.250216;Produto B;Loja Física;1;75.77
+2023-05-31 10:59:22.250219;Produto A;Televendas;10;85.37
+2023-06-13 10:59:22.250221;Produto B;Pessoa Juridica;9;67.64
+2023-12-23 10:59:22.250224;Produto B;Pessoa Juridica;1;73.06
+2023-07-20 10:59:22.250227;Produto A;Pessoa Juridica;6;84.85
+2024-02-10 10:59:22.250229;Produto B;Pessoa Juridica;8;17.81
+2024-01-06 10:59:22.250232;Produto A;Pessoa Juridica;7;72.27
+2024-05-09 10:59:22.250235;Produto C;Loja Física;7;29.53
+2024-01-25 10:59:22.250238;Produto B;Televendas;9;23.88
+2023-11-11 10:59:22.250240;Produto D;Pessoa Juridica;4;55.28
+2023-06-17 10:59:22.250243;Produto D;Loja Física;1;12.44
+2023-06-22 10:59:22.250246;Produto A;Televendas;1;31.85
+2024-01-11 10:59:22.250248;Produto A;Televendas;2;34.68
+2023-08-29 10:59:22.250251;Produto D;Pessoa Juridica;3;96.69
+2024-01-16 10:59:22.250254;Produto A;Televendas;8;69.18
+2023-10-29 10:59:22.250256;Produto B;Televendas;4;87.57
+2023-11-20 10:59:22.250259;Produto B;Loja Física;6;72.9
+2023-08-05 10:59:22.250261;Produto D;Televendas;3;93.17
+2023-06-29 10:59:22.250264;Produto B;Televendas;3;25.45
+2023-12-31 10:59:22.250267;Produto C;Loja Física;1;96.96
+2024-04-30 10:59:22.250269;Produto A;Televendas;9;84.99
+2023-09-27 10:59:22.250272;Produto A;Pessoa Juridica;10;29.34
+2024-03-04 10:59:22.250275;Produto C;Loja Física;9;64.71
+2024-02-03 10:59:22.250277;Produto D;Loja Física;9;79.5
+2023-07-19 10:59:22.250280;Produto C;Televendas;7;31.23
+2023-11-04 10:59:22.250283;Produto B;Pessoa Juridica;10;84.21
+2023-05-17 10:59:22.250285;Produto C;Televendas;3;37.85
+2023-08-10 10:59:22.250288;Produto D;Loja Física;6;54.27
+2024-05-14 10:59:22.250291;Produto C;Pessoa Juridica;3;72.47
+2023-12-25 10:59:22.250293;Produto C;Pessoa Juridica;9;59.35
+2024-02-12 10:59:22.250296;Produto B;Loja Física;10;18.52
+2024-02-04 10:59:22.250299;Produto A;Pessoa Juridica;9;34.89
+2023-08-16 10:59:22.250302;Produto C;Pessoa Juridica;6;21.35
+2024-01-12 10:59:22.250304;Produto A;Loja Física;10;19.79
+2024-01-25 10:59:22.250307;Produto C;Loja Física;2;21.23
+2023-07-30 10:59:22.250310;Produto A;Loja Física;2;88.82
+2023-08-15 10:59:22.250312;Produto A;Loja Física;1;65.05
+2023-12-04 10:59:22.250315;Produto B;Pessoa Juridica;1;29.82
+2023-11-18 10:59:22.250318;Produto B;Loja Física;6;40.54
+2024-05-12 10:59:22.250320;Produto C;Loja Física;8;89.45
+2023-08-26 10:59:22.250323;Produto B;Pessoa Juridica;4;43.61
+2024-04-11 10:59:22.250326;Produto D;Pessoa Juridica;6;20.23
+2023-11-14 10:59:22.250328;Produto D;Pessoa Juridica;2;48.66
+2023-05-30 10:59:22.250331;Produto C;Loja Física;4;19.52
+2024-05-07 10:59:22.250334;Produto B;Pessoa Juridica;2;89.05
+2024-01-11 10:59:22.250337;Produto B;Loja Física;10;44.34
+2023-08-01 10:59:22.250339;Produto A;Televendas;9;11.72
+2023-10-30 10:59:22.250342;Produto D;Televendas;1;29.33
+2024-04-11 10:59:22.250345;Produto C;Pessoa Juridica;8;60.24
+2023-12-14 10:59:22.250347;Produto D;Pessoa Juridica;5;71.11
+2023-05-23 10:59:22.250350;Produto C;Televendas;4;98.87
+2024-02-07 10:59:22.250353;Produto B;Loja Física;9;68.13
+2023-09-21 10:59:22.250355;Produto D;Televendas;10;87.98
+2024-01-16 10:59:22.250358;Produto C;Televendas;2;49.24
+2024-05-09 10:59:22.250363;Produto B;Loja Física;7;50.99
+2024-01-14 10:59:22.250366;Produto C;Televendas;1;84.27
+2024-01-12 10:59:22.250368;Produto C;Loja Física;3;76.23
+2024-03-14 10:59:22.250371;Produto C;Televendas;3;14.46
+2023-06-16 10:59:22.250374;Produto B;Loja Física;8;61.39
+2024-04-18 10:59:22.250377;Produto B;Televendas;9;82.77
+2023-06-12 10:59:22.250379;Produto C;Televendas;6;16.56
+2024-03-28 10:59:22.250382;Produto C;Televendas;2;74.61
+2024-04-16 10:59:22.250384;Produto B;Televendas;9;65.75
+2024-05-07 10:59:22.250387;Produto C;Televendas;6;28.19
+2024-02-27 10:59:22.250390;Produto B;Pessoa Juridica;5;79.47
+2024-02-13 10:59:22.250392;Produto C;Loja Física;9;10.05
+2024-01-03 10:59:22.250395;Produto C;Loja Física;1;50.75
+2024-04-12 10:59:22.250398;Produto C;Pessoa Juridica;1;36.38
+2023-11-12 10:59:22.250400;Produto B;Televendas;7;62.03
+2023-11-17 10:59:22.250403;Produto C;Loja Física;10;32.0
+2023-11-16 10:59:22.250406;Produto A;Loja Física;10;15.9
+2024-04-28 10:59:22.250408;Produto B;Pessoa Juridica;5;64.6
+2024-02-17 10:59:22.250411;Produto C;Pessoa Juridica;4;24.97
+2024-03-07 10:59:22.250414;Produto C;Loja Física;5;26.83
+2023-11-06 10:59:22.250416;Produto D;Loja Física;3;59.18
+2023-07-16 10:59:22.250419;Produto C;Loja Física;3;41.17
+2024-01-01 10:59:22.250422;Produto C;Loja Física;9;15.9
+2023-08-22 10:59:22.250424;Produto B;Televendas;9;27.1
+2024-04-26 10:59:22.250427;Produto A;Televendas;4;79.37
+2023-12-30 10:59:22.250430;Produto A;Pessoa Juridica;3;62.46
+2023-10-19 10:59:22.250432;Produto D;Pessoa Juridica;6;26.76
+2023-09-25 10:59:22.250435;Produto C;Televendas;7;62.08
+2023-08-09 10:59:22.250438;Produto B;Pessoa Juridica;1;99.13
+2023-07-21 10:59:22.250440;Produto D;Televendas;1;48.85
+2023-12-26 10:59:22.250443;Produto C;Televendas;2;47.1
+2023-07-31 10:59:22.250445;Produto B;Pessoa Juridica;3;42.95
+2023-12-27 10:59:22.250448;Produto B;Loja Física;9;86.96
+2024-02-21 10:59:22.250451;Produto D;Loja Física;4;63.73
+2024-03-14 10:59:22.250454;Produto A;Pessoa Juridica;9;11.85
+2023-06-11 10:59:22.250456;Produto D;Loja Física;7;46.44
+2023-07-29 10:59:22.250459;Produto B;Pessoa Juridica;5;60.28
+2023-06-02 10:59:22.250462;Produto B;Loja Física;2;93.59
+2023-06-17 10:59:22.250465;Produto D;Pessoa Juridica;6;86.84
+2024-04-13 10:59:22.250467;Produto B;Pessoa Juridica;7;44.13
+2023-06-09 10:59:22.250470;Produto B;Loja Física;4;90.4
+2023-06-20 10:59:22.250473;Produto A;Pessoa Juridica;10;25.29
+2023-06-18 10:59:22.250475;Produto B;Pessoa Juridica;2;47.45
+2024-03-25 10:59:22.250478;Produto D;Pessoa Juridica;8;88.79
+2024-03-06 10:59:22.250481;Produto D;Pessoa Juridica;9;77.48
+2023-08-12 10:59:22.250483;Produto C;Televendas;1;53.69
+2023-09-13 10:59:22.250486;Produto B;Televendas;10;63.98
+2024-04-10 10:59:22.250489;Produto D;Televendas;6;32.73
+2023-09-01 10:59:22.250491;Produto B;Loja Física;9;17.2
+2023-07-18 10:59:22.250494;Produto D;Televendas;10;72.23
+2023-06-16 10:59:22.250497;Produto B;Loja Física;4;55.07
+2024-02-02 10:59:22.250500;Produto A;Televendas;4;25.61
+2023-10-16 10:59:22.250502;Produto D;Televendas;1;21.03
+2023-11-28 10:59:22.250505;Produto A;Pessoa Juridica;9;45.09
+2024-02-23 10:59:22.250507;Produto B;Pessoa Juridica;3;97.38
+2023-08-29 10:59:22.250510;Produto D;Loja Física;4;47.05
+2024-03-05 10:59:22.250513;Produto A;Pessoa Juridica;5;97.42
+2024-01-26 10:59:22.250515;Produto D;Televendas;2;26.7
+2024-03-27 10:59:22.250518;Produto B;Pessoa Juridica;1;67.1
+2023-06-26 10:59:22.250521;Produto A;Televendas;1;89.29
+2024-04-30 10:59:22.250524;Produto A;Pessoa Juridica;9;63.41
+2024-04-11 10:59:22.250526;Produto D;Televendas;10;40.05
+2024-01-09 10:59:22.250529;Produto C;Televendas;3;49.42
+2023-09-06 10:59:22.250532;Produto D;Loja Física;2;61.14
+2023-09-14 10:59:22.250535;Produto C;Pessoa Juridica;1;83.11
+2023-07-23 10:59:22.250556;Produto C;Pessoa Juridica;1;97.26
+2023-08-27 10:59:22.250558;Produto C;Televendas;10;23.19
+2023-11-20 10:59:22.250561;Produto C;Loja Física;3;71.82
+2023-05-20 10:59:22.250564;Produto A;Televendas;2;63.13
+2023-11-15 10:59:22.250567;Produto B;Loja Física;9;30.05
+2024-01-22 10:59:22.250570;Produto A;Loja Física;8;44.07
+2024-05-02 10:59:22.250572;Produto D;Pessoa Juridica;2;17.34
+2024-02-07 10:59:22.250575;Produto D;Pessoa Juridica;7;81.01
+2024-03-16 10:59:22.250578;Produto D;Pessoa Juridica;10;79.78
+2023-11-22 10:59:22.250580;Produto B;Loja Física;1;16.13
+2023-11-04 10:59:22.250583;Produto B;Televendas;5;82.54
+2023-10-12 10:59:22.250586;Produto A;Pessoa Juridica;6;88.73
+2023-07-21 10:59:22.250589;Produto D;Loja Física;4;73.05
+2024-02-07 10:59:22.250591;Produto A;Pessoa Juridica;9;11.9
+2024-01-12 10:59:22.250594;Produto A;Televendas;2;16.09
+2024-01-12 10:59:22.250597;Produto B;Pessoa Juridica;9;60.84
+2024-02-09 10:59:22.250599;Produto B;Televendas;8;12.79
+2023-08-23 10:59:22.250602;Produto D;Televendas;2;30.5
+2024-02-09 10:59:22.250605;Produto C;Loja Física;4;78.69
+2023-05-22 10:59:22.250610;Produto C;Televendas;7;63.11
+2024-01-12 10:59:22.250613;Produto C;Loja Física;4;86.96
+2024-04-10 10:59:22.250616;Produto C;Televendas;7;87.87
+2023-09-29 10:59:22.250619;Produto D;Televendas;8;79.68
+2023-07-16 10:59:22.250622;Produto B;Loja Física;2;90.83
+2024-01-25 10:59:22.250624;Produto D;Pessoa Juridica;2;47.55
+2023-05-27 10:59:22.250629;Produto B;Pessoa Juridica;10;12.23
+2023-10-10 10:59:22.250634;Produto C;Pessoa Juridica;9;15.37
+2023-12-23 10:59:22.250639;Produto D;Televendas;1;67.07
+2024-04-08 10:59:22.250644;Produto D;Pessoa Juridica;8;25.65
+2023-12-24 10:59:22.250649;Produto C;Televendas;10;50.37
+2023-06-03 10:59:22.250654;Produto C;Pessoa Juridica;5;76.52
+2024-01-24 10:59:22.250659;Produto D;Pessoa Juridica;10;65.64
+2023-08-26 10:59:22.250664;Produto D;Loja Física;4;45.79
+2023-12-15 10:59:22.250670;Produto D;Televendas;5;56.15
+2024-05-13 10:59:22.250675;Produto C;Loja Física;2;46.53
+2023-12-08 10:59:22.250681;Produto C;Loja Física;2;21.17
+2023-05-31 10:59:22.250686;Produto B;Pessoa Juridica;10;46.03
+2024-01-03 10:59:22.250690;Produto C;Televendas;2;72.11
+2023-12-12 10:59:22.250693;Produto A;Pessoa Juridica;9;34.39
+2023-08-13 10:59:22.250696;Produto D;Televendas;1;43.61
+2024-01-11 10:59:22.250698;Produto A;Loja Física;9;99.95
+2023-10-28 10:59:22.250701;Produto A;Loja Física;9;94.23
+2024-03-02 10:59:22.250704;Produto C;Loja Física;10;58.29
+2024-04-07 10:59:22.250707;Produto A;Loja Física;8;48.18
+2024-02-27 10:59:22.250709;Produto C;Loja Física;3;87.5
+2023-07-03 10:59:22.250712;Produto A;Pessoa Juridica;8;68.97
+2023-07-28 10:59:22.250715;Produto D;Loja Física;5;75.44
+2024-05-15 10:59:22.250718;Produto C;Televendas;5;49.39
+2024-03-20 10:59:22.250720;Produto D;Loja Física;1;36.28
+2024-05-11 10:59:22.250723;Produto B;Televendas;5;15.5
+2023-07-20 10:59:22.250726;Produto B;Loja Física;6;26.71
+2024-02-19 10:59:22.250728;Produto D;Televendas;2;27.37
+2023-12-12 10:59:22.250731;Produto B;Loja Física;4;66.71
+2023-11-23 10:59:22.250734;Produto A;Loja Física;6;55.67
+2024-03-22 10:59:22.250736;Produto C;Loja Física;5;93.81
+2023-07-08 10:59:22.250739;Produto D;Loja Física;4;18.27
+2023-09-11 10:59:22.250742;Produto C;Pessoa Juridica;7;53.22
+2024-04-12 10:59:22.250744;Produto A;Loja Física;8;35.33
+2024-02-22 10:59:22.250747;Produto D;Loja Física;3;24.58
+2023-09-06 10:59:22.250750;Produto C;Televendas;1;59.33
+2023-09-12 10:59:22.250753;Produto D;Televendas;3;22.83
+2024-02-17 10:59:22.250755;Produto A;Pessoa Juridica;4;78.04
+2023-09-13 10:59:22.250758;Produto A;Pessoa Juridica;4;32.54
+2023-10-07 10:59:22.250761;Produto D;Pessoa Juridica;10;66.19
+2023-11-05 10:59:22.250764;Produto D;Televendas;8;66.77
+2024-02-12 10:59:22.250766;Produto D;Pessoa Juridica;3;30.85
+2023-07-12 10:59:22.250769;Produto C;Televendas;1;44.06
+2024-01-05 10:59:22.250771;Produto B;Pessoa Juridica;6;32.21
+2023-11-25 10:59:22.250774;Produto D;Loja Física;3;60.39
+2024-04-15 10:59:22.250777;Produto D;Pessoa Juridica;4;72.81
+2023-06-20 10:59:22.250780;Produto A;Loja Física;10;82.32
+2023-08-25 10:59:22.250783;Produto C;Loja Física;9;76.51
+2024-05-10 10:59:22.250786;Produto A;Televendas;3;59.2
+2023-11-20 10:59:22.250789;Produto C;Televendas;2;57.07
+2023-07-03 10:59:22.250792;Produto B;Televendas;3;84.29
+2024-04-22 10:59:22.250794;Produto C;Televendas;9;65.78
+2024-03-19 10:59:22.250797;Produto B;Pessoa Juridica;8;48.68
+2024-03-15 10:59:22.250800;Produto A;Loja Física;1;13.82
+2023-05-17 10:59:22.250802;Produto B;Televendas;7;33.25
+2024-01-03 10:59:22.250805;Produto C;Pessoa Juridica;8;57.45
+2024-03-20 10:59:22.250808;Produto C;Loja Física;3;44.33
+2024-02-27 10:59:22.250811;Produto A;Pessoa Juridica;6;29.5
+2023-12-14 10:59:22.250813;Produto B;Televendas;6;29.91
+2023-08-20 10:59:22.250816;Produto B;Loja Física;10;91.19
+2024-01-16 10:59:22.250819;Produto D;Loja Física;3;54.75
+2023-05-30 10:59:22.250822;Produto A;Loja Física;5;49.23
+2023-07-12 10:59:22.250825;Produto A;Pessoa Juridica;9;65.03
+2023-08-04 10:59:22.250827;Produto B;Televendas;8;94.7
+2024-03-07 10:59:22.250830;Produto A;Loja Física;1;64.84
+2024-05-15 10:59:22.250833;Produto B;Loja Física;5;43.74
+2024-02-19 10:59:22.250836;Produto D;Televendas;8;87.53
+2024-02-01 10:59:22.250839;Produto A;Televendas;1;83.08
+2023-06-05 10:59:22.250841;Produto D;Pessoa Juridica;3;93.62
+2024-04-28 10:59:22.250844;Produto A;Loja Física;1;56.04
+2024-04-02 10:59:22.250847;Produto C;Pessoa Juridica;3;40.66
+2023-08-12 10:59:22.250849;Produto A;Loja Física;1;68.77
+2023-11-11 10:59:22.250852;Produto C;Televendas;1;21.9
+2023-11-05 10:59:22.250855;Produto C;Pessoa Juridica;8;21.29
+2023-07-24 10:59:22.250857;Produto B;Pessoa Juridica;3;60.2
+2023-07-03 10:59:22.250860;Produto A;Loja Física;6;14.43
+2023-05-21 10:59:22.250863;Produto B;Loja Física;10;68.88
+2023-07-13 10:59:22.250866;Produto B;Loja Física;8;76.34
+2024-05-10 10:59:22.250868;Produto C;Loja Física;10;60.76
+2024-04-25 10:59:22.250876;Produto D;Televendas;8;44.69
+2023-06-24 10:59:22.250880;Produto A;Loja Física;3;68.06
+2024-03-01 10:59:22.250883;Produto D;Loja Física;9;71.02
+2024-05-09 10:59:22.250885;Produto A;Televendas;8;46.58
+2024-04-11 10:59:22.250888;Produto A;Pessoa Juridica;5;39.63
+2024-03-30 10:59:22.250891;Produto B;Televendas;7;95.22
+2023-10-08 10:59:22.250894;Produto A;Loja Física;9;46.54
+2023-06-06 10:59:22.250897;Produto B;Televendas;9;92.89
+2023-10-04 10:59:22.250900;Produto C;Pessoa Juridica;8;72.61
+2023-09-26 10:59:22.250903;Produto C;Pessoa Juridica;9;22.24
+2024-03-08 10:59:22.250905;Produto A;Loja Física;4;79.97
+2023-07-20 10:59:22.250908;Produto A;Loja Física;4;93.34
+2023-12-27 10:59:22.250911;Produto C;Televendas;7;16.0
+2024-02-27 10:59:22.250914;Produto A;Televendas;9;26.74
+2024-01-16 10:59:22.250917;Produto B;Televendas;7;23.72
+2023-08-31 10:59:22.250920;Produto A;Loja Física;6;49.96
+2024-03-30 10:59:22.250923;Produto A;Pessoa Juridica;3;26.52
+2023-10-31 10:59:22.250925;Produto A;Pessoa Juridica;10;79.54
+2023-10-20 10:59:22.250928;Produto D;Pessoa Juridica;2;95.76
+2023-11-07 10:59:22.250931;Produto B;Loja Física;10;45.79
+2024-05-10 10:59:22.250934;Produto A;Televendas;2;23.46
+2024-01-01 10:59:22.250936;Produto C;Loja Física;4;19.86
+2023-12-18 10:59:22.250939;Produto B;Pessoa Juridica;5;11.68
+2024-03-22 10:59:22.250942;Produto A;Loja Física;9;81.58
+2023-09-19 10:59:22.250945;Produto A;Televendas;4;44.2
+2023-12-20 10:59:22.250947;Produto B;Pessoa Juridica;2;84.93
+2024-04-07 10:59:22.250950;Produto B;Televendas;9;67.63
+2023-07-09 10:59:22.250953;Produto D;Pessoa Juridica;10;29.08
+2023-09-23 10:59:22.250956;Produto C;Televendas;7;28.46
+2023-10-16 10:59:22.250959;Produto D;Televendas;4;62.95
+2023-05-19 10:59:22.250962;Produto C;Loja Física;4;21.45
+2023-11-10 10:59:22.250965;Produto A;Pessoa Juridica;2;49.09
+2024-03-25 10:59:22.250967;Produto C;Televendas;5;26.65
+2023-11-06 10:59:22.250970;Produto C;Loja Física;10;77.61
+2024-04-15 10:59:22.250973;Produto B;Televendas;7;74.56
+2023-07-26 10:59:22.250976;Produto D;Televendas;5;56.0
+2023-07-28 10:59:22.250979;Produto B;Pessoa Juridica;8;15.63
+2023-12-24 10:59:22.250981;Produto B;Televendas;6;84.26
+2023-12-12 10:59:22.250984;Produto A;Loja Física;6;89.46
+2024-02-20 10:59:22.250987;Produto C;Televendas;9;85.43
+2024-05-14 10:59:22.250989;Produto B;Pessoa Juridica;10;21.35
+2023-08-07 10:59:22.250992;Produto D;Televendas;9;67.78
+2023-12-28 10:59:22.250995;Produto B;Loja Física;9;70.13
+2023-10-30 10:59:22.250997;Produto A;Loja Física;4;10.94
+2024-03-21 10:59:22.251000;Produto B;Loja Física;7;45.84
+2024-05-12 10:59:22.251003;Produto D;Televendas;8;82.0
+2023-10-25 10:59:22.251006;Produto D;Televendas;5;44.82
+2023-08-26 10:59:22.251008;Produto D;Loja Física;10;56.0
+2023-09-17 10:59:22.251011;Produto D;Loja Física;5;45.67
+2023-12-24 10:59:22.251014;Produto B;Loja Física;7;45.51
+2024-05-13 10:59:22.251016;Produto A;Televendas;2;21.97
+2023-08-30 10:59:22.251019;Produto D;Televendas;1;80.85
+2023-07-03 10:59:22.251022;Produto D;Pessoa Juridica;4;49.17
+2023-08-05 10:59:22.251025;Produto D;Loja Física;2;30.46
+2023-10-02 10:59:22.251028;Produto B;Loja Física;4;38.69
+2024-03-23 10:59:22.251030;Produto C;Loja Física;4;67.81
+2023-08-24 10:59:22.251033;Produto B;Televendas;2;54.84
+2024-03-19 10:59:22.251036;Produto C;Televendas;10;62.38
+2024-05-01 10:59:22.251039;Produto A;Loja Física;1;34.24
+2023-10-25 10:59:22.251041;Produto B;Loja Física;2;19.96
+2023-08-05 10:59:22.251044;Produto D;Televendas;8;96.23
+2023-10-16 10:59:22.251047;Produto B;Pessoa Juridica;5;19.85
+2023-08-14 10:59:22.251049;Produto B;Loja Física;8;78.87
+2024-04-04 10:59:22.251052;Produto A;Pessoa Juridica;5;88.47
+2023-06-26 10:59:22.251055;Produto D;Televendas;6;95.64
+2023-10-06 10:59:22.251058;Produto D;Pessoa Juridica;6;95.42
+2024-04-14 10:59:22.251060;Produto A;Televendas;2;56.38
+2023-07-08 10:59:22.251063;Produto D;Pessoa Juridica;10;82.49
+2024-02-29 10:59:22.251066;Produto D;Loja Física;9;74.1
+2023-06-11 10:59:22.251069;Produto C;Loja Física;5;70.39
+2024-03-10 10:59:22.251071;Produto C;Televendas;8;33.75
+2024-03-28 10:59:22.251074;Produto D;Televendas;7;41.44
+2023-08-10 10:59:22.251077;Produto B;Televendas;3;67.62
+2023-07-24 10:59:22.251080;Produto B;Televendas;2;38.2
+2023-11-13 10:59:22.251083;Produto D;Loja Física;10;65.4
+2024-03-27 10:59:22.251086;Produto A;Televendas;10;46.21
+2023-06-22 10:59:22.251088;Produto D;Loja Física;5;29.97
+2023-10-09 10:59:22.251091;Produto D;Televendas;5;35.57
+2023-07-06 10:59:22.251094;Produto A;Pessoa Juridica;5;72.06
+2023-08-15 10:59:22.251096;Produto B;Loja Física;5;76.75
+2024-04-24 10:59:22.251099;Produto C;Pessoa Juridica;3;68.23
+2024-02-24 10:59:22.251102;Produto B;Pessoa Juridica;3;62.94
+2023-06-20 10:59:22.251105;Produto A;Televendas;9;66.58
+2023-09-12 10:59:22.251107;Produto C;Loja Física;8;90.67
+2024-03-04 10:59:22.251112;Produto D;Televendas;1;41.64
+2023-09-14 10:59:22.251115;Produto D;Loja Física;7;65.61
+2023-12-20 10:59:22.251118;Produto D;Pessoa Juridica;3;55.1
+2023-08-24 10:59:22.251121;Produto D;Loja Física;3;91.48
+2024-03-17 10:59:22.251124;Produto D;Loja Física;3;28.35
+2023-09-16 10:59:22.251126;Produto A;Loja Física;4;27.97
+2024-03-01 10:59:22.251129;Produto B;Pessoa Juridica;8;60.79
+2023-10-21 10:59:22.251132;Produto D;Pessoa Juridica;8;94.18
+2024-01-04 10:59:22.251135;Produto B;Televendas;1;85.69
