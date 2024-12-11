@@ -3,11 +3,15 @@ import streamlit as st
 def insights():
     st.write(
     """
-    ## insights
+    ## Resultados/Insights
              
     ### Produtos Mais Vendidos:
     
     - Podemos observar que o produto mais vendido em quantidade e valor é o Produto B. O produto menos vendido em quantidade é o Produto D, com esse dado podemos realizar uma campanha promocional para aumentar as vendas deste produto. 
+    
+    ### Canal de vendas:
+    
+    - A Loja Física é o canal de vendas que mais vende em quantidade de produtos, porém, o valor total é praticamente equivalente ao de Pessoa Jurídica.
 
     ### Padrões de Clientes:
     
@@ -22,13 +26,13 @@ def insights():
     - Produtos com desempenho baixo que poderiam ser promovidos ou descontinuados.
     - Regiões com vendas abaixo do esperado que poderiam receber investimentos estratégicos.
 
-    ### Próximos Passos
+    ## Próximos Passos
 
     - Melhorar a Qualidade dos Dados, integrando mais informações para realizar análises mais robustas.
     - Melhor o dashboard tornando ele dinâmico e possibilitando ter análises em tempo real.
 
         
-    ### Análises Adicionais
+    ## Análises Adicionais
     
     - Identificar regiões menos exploradas para possíveis campanhas de marketing.
     Destacar os produtos mais vendidos em termos de volume e receita, separando-os por categoria ou faixa de preço.
