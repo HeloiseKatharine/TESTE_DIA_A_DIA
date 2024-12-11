@@ -3,7 +3,7 @@ import streamlit as st
 def insights():
     st.write(
     """
-    ## Resultados/Insights
+    ## Resultados / Insights
              
     ### Produtos Mais Vendidos:
     
